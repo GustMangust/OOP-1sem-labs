@@ -1,0 +1,15 @@
+D:\Git\Labs\OOP\Lab14\bin\Debug\netcoreapp3.1\Lab14.exe
+D:\Git\Labs\OOP\Lab14\bin\Debug\netcoreapp3.1\Lab14.deps.json
+D:\Git\Labs\OOP\Lab14\bin\Debug\netcoreapp3.1\Lab14.runtimeconfig.json
+D:\Git\Labs\OOP\Lab14\bin\Debug\netcoreapp3.1\Lab14.runtimeconfig.dev.json
+D:\Git\Labs\OOP\Lab14\bin\Debug\netcoreapp3.1\Lab14.dll
+D:\Git\Labs\OOP\Lab14\bin\Debug\netcoreapp3.1\Lab14.pdb
+D:\Git\Labs\OOP\Lab14\obj\Debug\netcoreapp3.1\Lab14.csprojAssemblyReference.cache
+D:\Git\Labs\OOP\Lab14\obj\Debug\netcoreapp3.1\Lab14.csproj.CoreCompileInputs.cache
+D:\Git\Labs\OOP\Lab14\obj\Debug\netcoreapp3.1\Lab14.AssemblyInfoInputs.cache
+D:\Git\Labs\OOP\Lab14\obj\Debug\netcoreapp3.1\Lab14.AssemblyInfo.cs
+D:\Git\Labs\OOP\Lab14\obj\Debug\netcoreapp3.1\Lab14.dll
+D:\Git\Labs\OOP\Lab14\obj\Debug\netcoreapp3.1\Lab14.pdb
+D:\Git\Labs\OOP\Lab14\obj\Debug\netcoreapp3.1\Lab14.genruntimeconfig.cache
+D:\Git\Labs\OOP\Lab14\bin\Debug\netcoreapp3.1\System.Runtime.Serialization.Formatters.Soap.dll
+D:\Git\Labs\OOP\Lab14\obj\Debug\netcoreapp3.1\Lab14.csproj.CopyComplete

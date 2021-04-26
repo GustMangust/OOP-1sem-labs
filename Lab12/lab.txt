@@ -1,0 +1,6 @@
+Lab12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2
+get_id get_surname set_surname get_name set_name get_otch set_otch get_year set_year get_month set_month get_day set_day get_phone set_phone Construktor get_gruppa set_gruppa get_faculty set_faculty get_kurs set_kurs Age Fac Spis Equals GetHashCode ToString A GetType 
+amount 
+id surname name otch year month day phone gruppa faculty kurs 
+

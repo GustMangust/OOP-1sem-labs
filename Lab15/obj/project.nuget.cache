@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ioX8/iUck6JBc0YY22Xpkg3F7RrBiO0cWiCI5D51yE7RQneyVASpGeZdMC5k+2Qxj4fGRvKOfTFcgX4pnvaA8g==",
+  "success": true,
+  "projectFilePath": "D:\\Git\\Labs\\OOP\\Lab15\\Lab15.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GustMangust\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
